@@ -82,6 +82,8 @@ I love working on:
 <img src="https://img.shields.io/badge/Gemini-API-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-Firestore-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Clerk-Authentication-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
 
 </p>
 
@@ -111,10 +113,13 @@ Achievements:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prisma-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini%20AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shadcn%20UI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20AI-orange?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arcjet-black?style=for-the-badge"/>
 
 </p>
 
