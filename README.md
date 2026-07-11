@@ -253,15 +253,15 @@ Among 2000+ participants
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush891f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=180"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Ayush891f&theme=tokyonight&hide_border=true"/>
 
-<br>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush891f&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=Ayush891f&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush891f&theme=tokyonight"/>
 
 </div>
-
-
 ---
 
 # 🤝 Connect With Me
