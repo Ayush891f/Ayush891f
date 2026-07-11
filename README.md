@@ -248,35 +248,26 @@ Among 2000+ participants
 
 
 ---
----
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush891f&theme=tokyonight" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush891f&theme=github_dark" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush891f&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush891f&theme=tokyonight" width="49%"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush891f&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush891f&theme=github_dark" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush891f&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush891f&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush891f&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
 
 # 🤝 Connect With Me
 
