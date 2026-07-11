@@ -249,20 +249,15 @@ Among 2000+ participants
 
 ---
 
-# 📊 GitHub Stats
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush891f&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush891f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=180"/>
 
 <br>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush891f&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Ayush891f&theme=tokyonight&hide_border=true"/>
 
 </div>
 
