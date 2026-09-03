@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ayush%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
 <h3>
-Software Developer | Backend Engineer | Full Stack Developer | AI Builder
+Software Developer | Backend Engineer | Full Stack Developer | AI & LLM Builder
 </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Exploring+Agentic+AI+%26+LLMs;Full+Stack+Developer;1300%2B+DSA+Problems+Solved;System+Design+Enthusiast"/>
@@ -66,6 +66,34 @@ I love working on:
   - JUnit Testing
 
 - Handled **1000+ malicious traffic spikes weekly**.
+
+---
+
+
+## 🤖 AI Systems Evaluation Intern — AirDawg Labs / Caudal AI
+
+📍 Remote | Jul 2026 - Aug 2026
+
+### 🧠 LLM Evaluation & Task Design
+
+- Designed and refined **prompts for task generation**, creating challenging tasks for evaluating **Large Language Models (LLMs)**.
+- Authored and validated **AI evaluation tasks** using **Cursor-based workflows**.
+
+### 🔍 Model Evaluation
+
+Evaluated LLM outputs based on:
+
+- ✅ Accuracy
+- 🎯 Relevance
+- 🔄 Consistency
+- 📋 Completeness
+- 📌 Instruction Adherence
+
+### 🧪 Quality Assurance & Failure Analysis
+
+- Conducted **static checks, manual reviews, and iterative validation** of AI-generated outputs.
+- Performed **failure analysis** to identify recurring model failure patterns.
+- Helped improve the overall quality and reliability of AI evaluation workflows.
 
 
 ---
